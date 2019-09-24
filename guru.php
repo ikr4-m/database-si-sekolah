@@ -7,9 +7,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Guru</title>
     <?php
-    require './constant.php';
-    require './connection.php';
-    require './guru/modal.php';
+    require '../constant.php';
+    require '../connection.php';
+    require '../guru/modal.php';
     ?>
 </head>
 

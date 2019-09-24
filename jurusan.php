@@ -9,11 +9,11 @@
     <?php
     require './constant.php';
     require './connection.php';
+    require './jurusan/modal.php';
     ?>
 </head>
 
 <body>
-    <?php require './jurusan/modal.php' ?>
     <div class="container">
         <br><br>
         <h1 class="w-100 text-center">
